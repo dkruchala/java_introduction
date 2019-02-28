@@ -1,1 +1,1 @@
-# My approach of working with JAVA
+# My solutions for Hackerrank tasks
