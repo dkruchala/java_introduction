@@ -1,5 +1,5 @@
 /**
- * Hackerrang counting Valleys solution
+ * Hackerrang counting Valleys task solution
  */
 public class countingValleys {
 

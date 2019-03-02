@@ -6,6 +6,21 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - multiply100",
+      "request": "launch",
+      "mainClass": "multiply100",
+      "projectName": "cwiczenie1_ffd12fea"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - eofScanner",
+      "request": "launch",
+      "mainClass": "eofScanner",
+      "projectName": "cwiczenie1_ffd12fea",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - cwiczenie1",
       "request": "launch",
       "mainClass": "cwiczenie1",
