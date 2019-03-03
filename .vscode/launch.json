@@ -6,9 +6,23 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - oopIntroduction",
+      "request": "launch",
+      "mainClass": "oopIntroduction",
+      "projectName": "cwiczenie1_ffd12fea"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - multiply100",
       "request": "launch",
       "mainClass": "multiply100",
+      "projectName": "cwiczenie1_ffd12fea"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - enchancedforloop",
+      "request": "launch",
+      "mainClass": "enchancedforloop",
       "projectName": "cwiczenie1_ffd12fea"
     },
     {
